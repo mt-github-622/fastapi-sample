@@ -6,9 +6,6 @@ on:
     - 'app/**'
     - .github/workflows/deploy-pr.yaml
 
-
-
-    
 env:
   REGISTRY: ghcr.io
 
